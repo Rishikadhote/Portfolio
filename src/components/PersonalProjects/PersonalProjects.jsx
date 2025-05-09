@@ -8,42 +8,42 @@ const projects = [
     description:
       "Designed and developed a personal portfolio website to showcase projects, experience, and skills. Built with a responsive UI, smooth navigation, and optimized performance for a seamless user experience.",
     github: "https://github.com/Rishikadhote/Portfolio",
-    image: "/portfolio.jpg", 
+    image: "/Portfolio/portfolio.jpg", 
   },
   {
     title: " Hotel Management System",
     description:
       " Built a full-stack hotel booking system with an interactive booking form The goal of this project was to design a comprehensive hotel booking system that streamlines the reservation process for both customers and hotel staff. The frontend was built using React.js to deliver a responsive and user-friendly interface, while the backend was developed using Node.js and Express.js. ",
     github: "https://github.com/Rishikadhote/Regal_Hotel_Management_System",
-    image: "/hotelManagement.jpg",
+    image: "/Portfolio/hotelManagement.jpg",
   },
   {
     title: "Schizophrenia Diagnosis Prediction",
     description:
       "Developed an explainable ML pipeline for early schizophrenia detection using dermatoglyphic and demographic data.Integrated SMOTE and CTGAN for class imbalance handling and SHAP explainability.",
     github: "https://github.com/Rishikadhote/Schizophrenia-Diagnosis-Prediction",
-    image: "/diseasePrediction.png",
+    image: "/Portfolio/diseasePrediction.png",
   },
   {
     title: "Inshort Clone",
     description:
       "Built a functional clone of the Inshorts news app using React.js and REST APIs, featuring real-time news fetching, category filtering, and responsive UI design.",
     github: "https://github.com/Rishikadhote/Inshort_Clone",
-    image: "/inshort.png",
+    image: "/Portfolio/inshort.png",
   },
   {
     title: "Fundraiser",
     description:
       "This project focused on creating a secure and user-friendly crowdfunding platform to facilitate fundraising campaigns. The application was developed using a full-stack approach, with React.js for the frontend and Node.js with Express.js for the backend. MongoDB served as the database to store user and campaign information. ",
     github: "https://github.com/Rishikadhote/Fundraiser",
-    image: "/fundraising.jpg",
+    image: "/Portfolio/fundraising.jpg",
   },
   {
     title: "Book Search App",
     description:
       "Developed a responsive Book Search App using React.js and Google Books API, enabling real-time book search with improved navigation and user experience.",
     github: "https://github.com/Rishikadhote/BookSearchApp",
-    image: "/bookSearch.jpg",
+    image: "/Portfolio/bookSearch.jpg",
   },
 ];
 

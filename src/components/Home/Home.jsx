@@ -55,7 +55,7 @@ const Intro = ({ darkMode }) => {
           {/* Download CV Button */}
           <div className="mt-4 flex justify-center md:justify-start">
             <a
-              href="/FinalResume.pdf"
+              href="/Portfolio/FinalResume.pdf"
               download="Resume.pdf"
               className={`inline-block px-6 py-3 text-sm sm:text-base font-semibold rounded-lg transition-all duration-300 shadow-md ${
                 darkMode
@@ -71,7 +71,7 @@ const Intro = ({ darkMode }) => {
         {/* Right Content (Image) */}
         <div className="flex justify-center flex-1">
           <motion.img
-            src="/logo.png"
+            src="/Portfolio/logo.png"
             alt="Profile"
             className="w-48 sm:w-56 md:w-64 lg:w-80 rounded-full border-4 shadow-lg 
             transition-all duration-300 

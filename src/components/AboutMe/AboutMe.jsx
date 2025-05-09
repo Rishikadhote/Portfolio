@@ -44,7 +44,7 @@ const About = ({ darkMode }) => {
           {/* Avatar */}
           <div className="w-full md:w-1/3 flex justify-center md:justify-start">
             <img
-              src="/me.jpeg"
+              src="/Portfolio/me.jpeg"
               alt="Avatar"
               className="w-64 h-64 object-cover rounded-lg border-4 shadow-6xl transition-all duration-300
               border-[#E58AB2] shadow-blue-400 dark:border-[#56A8F5] dark:shadow-stone-100"
