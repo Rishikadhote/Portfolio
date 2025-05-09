@@ -41,13 +41,13 @@ const Intro = ({ darkMode }) => {
           <p className="text-base sm:text-lg leading-relaxed">
             Passionate about building AI-driven applications, scalable web
             platforms, and intelligent automation solutions. I specialize in{" "}
-            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
               machine learning
             </span>,{" "}
-            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
               deep learning
             </span>, and{" "}
-            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+            <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
               full-stack development
             </span>.
           </p>

@@ -36,7 +36,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
                 className={`cursor-pointer transition-all duration-300 font-semibold ${
                   darkMode
                     ? "text-[#E0E0E0] hover:text-[#56A8F5]"
-                    : "text-[#E58AB2] hover:text-[#3f85fd]"
+                    : "text-[#e7357f] hover:text-[#3f85fd]"
                 }`}
               >
                 {link.link}

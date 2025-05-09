@@ -53,22 +53,22 @@ const About = ({ darkMode }) => {
 
           {/* Info */}
           <div className="w-full md:w-2/3 mt-6 md:mt-0 md:pl-10 text-center md:text-left">
-            <h3 className="text-3xl font-bold">Rishika Dhote - Software Developer </h3>
+          <h3 className={`text-3xl font-bold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>Rishika Dhote - Software Developer</h3>
             <p className="text-lg mt-4 leading-relaxed">
               Passionate about crafting clean, efficient, and scalable code, I specialize in{" "}
-              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
                 machine learning, full-stack development, and AI applications.
               </span>{" "}
               With experience in{" "}
-              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
                 Python, C++, JavaScript, React.js, and TensorFlow
               </span>, I aim to build innovative solutions that merge technology and intelligence.
               <br />
               A competitive programmer with a{" "}
-              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
                 4-star GeeksforGeeks rating
               </span> and{" "}
-              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#E58AB2]"}`}>
+              <span className={`font-semibold ${darkMode ? "text-[#56A8F5]" : "text-[#e7357f]"}`}>
                 500+ problems solved
               </span> on LeetCode,Geeksforgeek & CodingNinjas, I thrive on problem-solving and optimization.
             </p>
